@@ -15,3 +15,19 @@ Faça um programa para calcular o valor de uma viagem.
 Imprima no console o valor que será gasto de combustível para realizar esta viagem.
 
 [Resolução](/01-variaveis-e-operadores/desafio.md)
+
+## ESTRUTURAS CONDICIONAIS
+
+### DESAFIO 2
+
+Faça um programa para calcular o valor de uma viagem.
+
+1. Preço do Etanol;
+2. Preço da Gasolina;
+3. O tipo de combustível utilizado em seu carro;
+4. Gasto médio de combustível do carro por KM;
+5. Distância em KM da viagem;
+
+Imprima no console o valor que será gasto para realizar esta viagem.
+
+[Resolução](/02-estruturas-condicionais/desafio.md)
