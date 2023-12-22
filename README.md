@@ -14,4 +14,4 @@ Faça um programa para calcular o valor de uma viagem.
 
 Imprima no console o valor que será gasto de combustível para realizar esta viagem.
 
-[Resolução]('/01-variaveis-e-operadores/desafio.md')
+[Resolução](/01-variaveis-e-operadores/desafio.md)
