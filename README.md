@@ -31,3 +31,18 @@ Faça um programa para calcular o valor de uma viagem.
 Imprima no console o valor que será gasto para realizar esta viagem.
 
 [Resolução](/02-estruturas-condicionais/desafio.md)
+
+## PRATICANDO VARIÁVEIS, CONSTANTES E ESTRUTURAS CONDICIONAIS
+
+### Exercício 1
+
+Faça um algorítimo que dado 3 notas tiradas por aluno em um semestre na faculdade calcule e imprima a sua média e sua classificação conforme a tabela abaixo:
+
+Média (nota 1 + nota 2 + nota 3) / 3;
+
+Classificação:
+* Média menor que 5, reprovação;
+* Nota entre 5 e 7, recuperação;
+* Nota acima de 7, passou de semestre;
+
+[Resolução](/03-exercicios-praticos/ex1.md)
