@@ -67,3 +67,18 @@ Condição do IMC em adultos:
 * Acima de 40: Obesidade grave;
 
 [Resolução](/03-exercicios-praticos/ex2.md)
+
+### Exercício 3
+
+Elabore um algorítimo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento.
+
+Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado.
+
+Código da condição de pagamento:
+
+* À vista Débito, recebe 10% de desconto;
+* À vista no Dinheiro ou PIX, recebe 15% de desconto;
+* Em duas vezes, preço normal de etiqueta sem juros;
+* Acima de duas vezes, preço normal de etiqueta mais juros de 10%;
+
+[Resolução](/03-exercicios-praticos/ex3.md)
