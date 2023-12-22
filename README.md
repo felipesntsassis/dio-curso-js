@@ -12,4 +12,6 @@ Faça um programa para calcular o valor de uma viagem.
 2. Gasto médio de combustível;
 3. Distância em KM da viagem;
 
-Imprima no console o valor que será gasto de combustível para realizar esta viagem
+Imprima no console o valor que será gasto de combustível para realizar esta viagem.
+
+[Resolução]('https://github.com/felipesntsassis/dio-curso-js/01-variaveis-e-operadores/desafio.md')

@@ -8,3 +8,11 @@ console.log(`O número ${numero} é par? ${eNumeroPar(numero) ? 'Sim' : 'Não'}`
 
 numero = 47847;
 console.log(`O número ${numero} é par? ${eNumeroPar(numero) ? 'Sim' : 'Não'}`);
+
+numero = 50;
+
+if (eNumeroPar(numero)) {
+    console.log('Par');
+} else {
+    console.log('Ímpar');
+}
