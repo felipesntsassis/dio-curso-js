@@ -46,3 +46,24 @@ Classificação:
 * Nota acima de 7, passou de semestre;
 
 [Resolução](/03-exercicios-praticos/ex1.md)
+
+### Exercício 2
+
+O IMC - Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição do peso de uma pessoa adulta.
+
+Fórmula do IMC:
+
+$$
+IMC = peso / (altura * altura)
+$$
+
+Elabore um algorítimo dado o peso e a altura de um adulto e mostre sua condição de acordo com a tabela abaixo:
+
+Condição do IMC em adultos:
+* Abaixo de 18.5: Abaixo do peso;
+* Entre 18.5 e 25: Peso normal;
+* Entre 25 e 30: Acima do peso;
+* Entre 30 e 40: Obeso;
+* Acima de 40: Obesidade grave;
+
+[Resolução](/03-exercicios-praticos/ex2.md)
