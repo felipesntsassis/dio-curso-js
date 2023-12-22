@@ -1,4 +1,4 @@
-const nota1 = 6;
+const nota1 = 7;
 const nota2 = 7;
 const nota3 = 8;
 
