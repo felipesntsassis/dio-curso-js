@@ -41,6 +41,7 @@ Faça um algorítimo que dado 3 notas tiradas por aluno em um semestre na faculd
 Média (nota 1 + nota 2 + nota 3) / 3;
 
 Classificação:
+
 * Média menor que 5, reprovação;
 * Nota entre 5 e 7, recuperação;
 * Nota acima de 7, passou de semestre;
@@ -60,6 +61,7 @@ $$
 Elabore um algorítimo dado o peso e a altura de um adulto e mostre sua condição de acordo com a tabela abaixo:
 
 Condição do IMC em adultos:
+
 * Abaixo de 18.5: Abaixo do peso;
 * Entre 18.5 e 25: Peso normal;
 * Entre 25 e 30: Acima do peso;
@@ -82,3 +84,11 @@ Código da condição de pagamento:
 * Acima de duas vezes, preço normal de etiqueta mais juros de 10%;
 
 [Resolução](/03-exercicios-praticos/ex3.md)
+
+## CLASSES E OBJETOS
+
+### Exercício 1
+
+Crie uma classe para representar carros. Os carros possuem marca, uma cor, e um gasto médio de combustível por quiilômetro rodado. Crie um método que dado a quantidade de quiilômetros e o preço do combustível nos dê o valor gasto em reais para realizar este percurso.
+
+[Resolução](/06-exercicios-objetos/ex1.md)
