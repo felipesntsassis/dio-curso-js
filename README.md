@@ -92,3 +92,11 @@ Código da condição de pagamento:
 Crie uma classe para representar carros. Os carros possuem marca, uma cor, e um gasto médio de combustível por quiilômetro rodado. Crie um método que dado a quantidade de quiilômetros e o preço do combustível nos dê o valor gasto em reais para realizar este percurso.
 
 [Resolução](/06-exercicios-objetos/ex1.md)
+
+### Exercício 2
+
+Crie uma classe para representar pessoas. Para cada pessoa deve se ter a capacidade de dizer o valor do IMC (IMC = peso / (altura * altura)).
+
+Instancie uma pessoa chamada José que tenha 70Kg e 1,75 de altura e peça ao José para informar o valor do seu IMC.
+
+[Resolução](/06-exercicios-objetos/ex2.md)
