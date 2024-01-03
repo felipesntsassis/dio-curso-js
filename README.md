@@ -100,3 +100,11 @@ Crie uma classe para representar pessoas. Para cada pessoa deve se ter a capacid
 Instancie uma pessoa chamada José que tenha 70Kg e 1,75 de altura e peça ao José para informar o valor do seu IMC.
 
 [Resolução](/06-exercicios-objetos/ex2.md)
+
+## IMPORTAÇÕES E EXPORTA~ÇOES
+
+### Exercício 1
+
+Uma sala  contem 5 alunos e para cada aluno foi sorteado um número de 1 a 100. Faça um programa que receba os 5 números sorteados para os alunos e mostre o maior número sorteado.
+
+[Resolução](/08-importacoes/sorteio-numero-maior.md)
